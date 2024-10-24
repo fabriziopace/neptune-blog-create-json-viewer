@@ -1,0 +1,36 @@
+/* node text color */
+.nodeStyle .sapSuiteUiCommonsNetworkStatusText,
+.nodeStyle.sapSuiteUiCommonsNetworkBox.sapSuiteUiCommonsNetworkElementHighlight .sapSuiteUiCommonsNetworkNodeTitleIcon,
+.nodeStyle.sapSuiteUiCommonsNetworkBox.sapSuiteUiCommonsNetworkElementHighlight .sapSuiteUiCommonsNetworkNodeTitle {
+    fill: #000;
+}
+
+/* node circle background color */
+.nodeStyle .sapSuiteUiCommonsNetworkInnerCircle,
+.nodeStyle.sapSuiteUiCommonsNetworkElementHighlight .sapSuiteUiCommonsNetworkInnerCircle,
+.nodeStyle.sapSuiteUiCommonsNetworkElementSelected.sapSuiteUiCommonsNetworkElementHighlight .sapSuiteUiCommonsNetworkInnerCircle,
+.sapSuiteUiCommonsNetworkNodes .sapSuiteUiCommonsNetworkElementSelected .sapSuiteUiCommonsNetworkInnerCircle {
+    fill: #747d8c;
+    stroke: #747d8c;
+}
+
+/* node structure/field background color */
+.nodeStyle.sapSuiteUiCommonsNetworkElementSuccess .sapSuiteUiCommonsNetworkNodeBoxStatus,
+.nodeStyle.sapSuiteUiCommonsNetworkElementSuccess .sapSuiteUiCommonsNetworkInnerCircleStatus,
+.nodeStyle.sapSuiteUiCommonsNetworkElementSuccess .sapSuiteUiCommonsNetworkInnerRect,
+.nodeStyle.sapSuiteUiCommonsNetworkElementSelected.sapSuiteUiCommonsNetworkElementHighlight .sapSuiteUiCommonsNetworkInnerRect {
+    fill: #ecf0f1;
+    stroke: #ecf0f1;
+}
+
+/* node object background color */
+.nodeStyle.sapSuiteUiCommonsNetworkElementWarning .sapSuiteUiCommonsNetworkNodeBoxStatus {
+    fill: #747d8c;
+    stroke: #747d8c;
+}
+
+/* node array background color */
+.nodeStyle.sapSuiteUiCommonsNetworkElementError .sapSuiteUiCommonsNetworkNodeBoxStatus {
+    fill: #ff9e33;
+    stroke: #ff9e33;
+}

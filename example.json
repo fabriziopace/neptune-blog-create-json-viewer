@@ -1,0 +1,37 @@
+{
+    "name": "Fabrizio",
+    "surname": "Pace",
+    "country": "Italy",
+    "role": "Senior Software Sensei",
+    "company": {
+        "name": "Jdtech Consulting",
+        "founded": "2003",
+        "based": "Pescara",
+        "solutions": [
+            "https://jdtech.it/images/demo/kpi_dashboard_demo.webp",
+            "https://jdtech.it/images/demo/sfa_demo.webp",
+            "https://jdtech.it/images/demo/warehouse_management_demo.webp"
+        ],
+        "logo": [
+            "https://jdtech.it/favicon.svg"
+        ]
+    },
+    "avatar": [
+        "https://fabriziopace.dev/images/profilepicture.webp"
+    ],
+    "hobbies": [
+        {
+            "dev": [
+                "Neptune Software",
+                "JavaScript"
+            ]
+        },
+        {
+            "blogs": [
+                "https://fabriziopace.dev/images/neptune-uno-card-game/banner.png",
+                "https://fabriziopace.dev/images/how-to-enable-drag-and-drop-from-list-to-planning-calendar/banner.png",
+                "https://fabriziopace.dev/images/jd-bingo-game-built-with-planet9-redis/banner.png"
+            ]
+        }
+    ]
+}
